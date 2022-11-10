@@ -1,24 +1,27 @@
 let dessertarray = [];
 let votes = 25;
 
-let dessert1 = new Dessert('Sprinkled donut', './img/donut1.webp');
-let dessert2 = new Dessert('Vanilla donut', './img/donut2.jpeg');
-let dessert3 = new Dessert('Bear donut','./img/donut3.webp');
-let dessert4 = new Dessert('Chocolate donut','./img/donut4.jpeg');
-let dessert5 = new Dessert('Chocolate donut 2', './img/donut5.webp');
-let dessert6 = new Dessert('Chocolate sprinkle donut', './img/donut6.jpeg');
-let dessert7 = new Dessert('Strawberry donut', './img/donut7.webp');
-let dessert8 = new Dessert('Fruit donuts', './img/donut8.jpeg');
-let dessert9 = new Dessert('assorted chocolate donut', './img/donut9.webp');
-let dessert10 = new Dessert('Chocolate cake', './img/cake1.jpeg');
-let dessert11 = new Dessert('Cheese cake', './img/cheesecake.jpeg');
-let dessert12 = new Dessert('Cinnamon roll', './img/cinnamonroll.jpeg');
-let dessert13 = new Dessert('Chocolate Crossaint', './img/crossaint1.webp');
-let dessert14 = new Dessert('Cupcakes', './img/cupcake.jpeg');
-let dessert15 = new Dessert('Dessert', './img/dessert.webp');
-let dessert16= new Dessert('Japanese Dessert', './img/dessert2.webp');
+let dessert1 = new Dessert('bag', './img/bag.jpg');
+let dessert2 = new Dessert('banana', './img/banana.jpg');
+let dessert3 = new Dessert('bathroom','./img/bathroom.jpg');
+let dessert4 = new Dessert('boots','./img/boots.jpg');
+let dessert5 = new Dessert('breakfast', './img/breakfast.jpg');
+let dessert6 = new Dessert('bubblegum', './img/bubblegum.jpg');
+let dessert7 = new Dessert('chair', './img/chair.jpg');
+let dessert8 = new Dessert('cthulhu', './img/cthulhu.jpg');
+let dessert9 = new Dessert('dog-duck', './img/dog-duck.jpg');
+let dessert10 = new Dessert('dragon', './img/dragon.jpg');
+let dessert11 = new Dessert('pen', './img/pen.jpg');
+let dessert12 = new Dessert('pet-sweep', './img/pet-sweep.jpg');
+let dessert13 = new Dessert('scissors', './img/scissors.jpg');
+let dessert14 = new Dessert('shark', './img/shark.jpg');
+let dessert15 = new Dessert('sweep', './img/sweep.png');
+let dessert16= new Dessert('tauntaun', './img/tauntaun.jpg');
+let dessert17= new Dessert('unicorn', './img/unicorn.jpg');
+let dessert18= new Dessert('water-can', './img/water-can.jpg');
+let dessert19= new Dessert('wine-glass', './img/wine-glass.jpg');
 
-dessertarray.push(dessert1,dessert2,dessert3,dessert4,dessert5,dessert6,dessert7,dessert8,dessert9,dessert10,dessert11,dessert12,dessert13,dessert14,dessert15,dessert16);
+dessertarray.push(dessert1,dessert2,dessert3,dessert4,dessert5,dessert6,dessert7,dessert8,dessert9,dessert10,dessert11,dessert12,dessert13,dessert14,dessert15,dessert16,dessert17,dessert18,dessert19);
 
 
 
